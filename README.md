@@ -3,9 +3,7 @@
 
 ![Texte alternatif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2c1cWJ2ZWFnNDh3Zzdyam11ZXU2YnlnaGt5bHVyeG1iNmduc3VweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif)
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2c1cWJ2ZWFnNDh3Zzdyam11ZXU2YnlnaGt5bHVyeG1iNmduc3VweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="400"/>
-</p>
+
 
 Compteur de visite
 ![Compteur de visites](https://komarev.com/ghpvc/?username=alexdupont&color=blue)
