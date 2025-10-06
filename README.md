@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+readme: nom du projet
+  description de l app si elle etait fonctionnelle
+  technologie
+  pas a pas d'installation
+  fonctionalité (tuto)// cahier des charges
+  
