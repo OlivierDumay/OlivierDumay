@@ -1,7 +1,7 @@
 ## SALUT SALUT 👋
 
 
-![Texte alternatif]([https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2c1cWJ2ZWFnNDh3Zzdyam11ZXU2YnlnaGt5bHVyeG1iNmduc3VweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif))
+![Texte alternatif](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2c1cWJ2ZWFnNDh3Zzdyam11ZXU2YnlnaGt5bHVyeG1iNmduc3VweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif)
 
 
 
