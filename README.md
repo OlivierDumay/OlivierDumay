@@ -1,5 +1,8 @@
 ## SALUT SALUT 👋
 
+Compteur de visite
+![Compteur de visites](https://komarev.com/ghpvc/?username=alexdupont&color=blue)
+
 <!--
 **OlDu-jpeg/OlDu-jpeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,11 +16,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 readme: nom du projet
   description de l app si elle etait fonctionnelle
   technologie
   pas a pas d'installation
   fonctionalité (tuto)// cahier des charges
+-->
+
+
   
